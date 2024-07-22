@@ -12,6 +12,9 @@ flake8 = "^7.1.0"
 isort = "^5.13.2"
 pre-commit = "^3.7.1"
 bandit = "^1.7.9"
+pandas = "^2.2.2"
+pandera = "^0.20.3"
+pyarrow = "^17.0.0"
 
 
 [build-system]
